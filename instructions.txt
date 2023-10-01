@@ -1,5 +1,10 @@
-1. This is my Software Engineering homework. Here, I have created a repository and included this file. 
-2. Make sure to download Github to view my work!
-3. This is a public repository, along with README and .gitignore files.
+
+
+*This is my Software Engineering homework. Here, I have created a repository and included this file. 
+*Make sure to download Github to view my work!
+*This is a public repository, along with README and .gitignore files.
 
 - this is Jess making a proposed change to the file!
+
+- this is Jess making a proposed change to the file!
+
